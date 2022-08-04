@@ -1,8 +1,5 @@
 # Classifying-Periodic-Variable-Stars
 ![Title - the doomed kid](https://user-images.githubusercontent.com/54232614/180894364-01e3bbfe-100c-42f8-a8e1-410a8b2bafa3.png)
-![K1_CMS_0129_1](https://user-images.githubusercontent.com/54232614/180894391-8a87a100-586e-46a5-aabf-e9463bb9dd3b.jpg)
-Aim - To classify 4 different classes of periodic variable stars using time-series data.
-![telescope](https://user-images.githubusercontent.com/54232614/180894411-adcdaee1-5448-4183-a057-91e1f352914c.png)
 
 📝 Problem Statement
 
@@ -27,3 +24,5 @@ Always wanted to know more about stars and do something with astronomical data s
 Having an in-house expert – Professor Ignacio Becker motivated us further and we took upon this challenge.
 
 Here is a link of research paper that inspired the project - https://arxiv.org/pdf/2002.00994.pdf
+
+![telescope](https://user-images.githubusercontent.com/54232614/180894411-adcdaee1-5448-4183-a057-91e1f352914c.png)
