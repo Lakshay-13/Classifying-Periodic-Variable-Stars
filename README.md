@@ -4,9 +4,7 @@
 Aim - To classify 4 different classes of periodic variable stars using time-series data.
 ![telescope](https://user-images.githubusercontent.com/54232614/180894411-adcdaee1-5448-4183-a057-91e1f352914c.png)
 
-Introduction 📰
-
-1. Problem Statement
+📝 Problem Statement
 
 Classifying periodic variable stars amongst 4 categories.
 1. RR Lyrae
@@ -15,14 +13,14 @@ Classifying periodic variable stars amongst 4 categories.
 4. Eclipsing Binary
 
 
-2. Dataset Used
+📈📉 Dataset Used
 
 GAIA DR3
 
 Link - http://cdn.gea.esac.esa.int/Gaia/gdr3/Photometry/epoch_photometry/
 
 
-3. Inspiration
+💡 Inspiration
 
 Just like every other child, when we were kids, we were fascinated by the endless sky and the innumerable number of stars that are unexplored (yet).
 Always wanted to know more about stars and do something with astronomical data steered our team to take up a project using astronomical data.
